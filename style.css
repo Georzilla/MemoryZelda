@@ -1,0 +1,11 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+h3 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.2rem;
+}
